@@ -14,7 +14,7 @@ Paginator-related tools and interfaces for Jishaku.
 import typing
 
 import discord
-from discord.ext import commands
+from redbot.core import commands
 
 from jishaku.flags import Flags
 from jishaku.hljs import get_language, guess_file_traits

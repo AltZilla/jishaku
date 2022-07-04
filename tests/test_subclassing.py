@@ -13,7 +13,7 @@ import discord
 import pytest
 import pytest_asyncio
 import utils
-from discord.ext import commands
+from redbot.core import commands
 
 
 @pytest_asyncio.fixture(

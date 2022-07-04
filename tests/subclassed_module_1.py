@@ -16,7 +16,7 @@ This variant overrides behavior using a Feature.
 
 import inspect
 
-from discord.ext import commands
+from redbot.core import commands
 
 import jishaku
 
